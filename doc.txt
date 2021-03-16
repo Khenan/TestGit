@@ -1,3 +1,7 @@
 Nouveau : User 2 !
 
+<<<<<<< HEAD
 ajout user 2
+=======
+ajout user 1
+>>>>>>> db8195c751dfa2659b9a4a00a8016bab233939f4
